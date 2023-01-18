@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=conky-custom
+Exec=/home/gio/.local/bin/conky.sh
+StartupNotify=false
+Terminal=false
+Icon=conky-logomark-violet
+Categories=System;Monitor;
