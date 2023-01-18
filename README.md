@@ -14,4 +14,9 @@ Note: You can use different method of starting up conky.
 
 If you don't have nvidia gpu, you can comment out all lines regarding nvidia.
 
+*CREDITS AND BIG THANKS TO:
+Erik Dubois
+Chris Titus
+conky and the community
+
 -Giovanni Alora
